@@ -40,6 +40,7 @@ A password is considered **strong** if it meets **all** the following conditions
 5. It also shows missing elements to improve the password.
 
 ## 💻 Sample Output
+![Image](https://github.com/user-attachments/assets/47dc0b8c-3572-4632-915d-b2d9a17b4ef2)
 
 Enter your password: Abc$123
 Password Strength: Moderate
