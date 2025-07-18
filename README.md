@@ -41,14 +41,12 @@ A password is considered **strong** if it meets **all** the following conditions
 
 ## 💻 Sample Output
 
-
-```plaintext
-Enter your password: Kunal123
+Enter your password: Abc$123
 Password Strength: Moderate
 
 Suggestions:
 - Add at least one special character.
-
+  
 ## 📄 License
 This project is open for educational and ethical use only.
 Not intended for real-time password storage or user authentication in production environments.
